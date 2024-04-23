@@ -1,11 +1,11 @@
 {
   "name": "adventofcode",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest ./src",
-    "dev" : "npx tsc watch"
+    "dev" : "npx tsc -w"
   },
   "author": "",
   "license": "ISC",

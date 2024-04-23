@@ -7,3 +7,9 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - System Setup
+
+## [1.0.0] - 2024-04-23
+
+### Added
+
+- Day 1 Part 1 
