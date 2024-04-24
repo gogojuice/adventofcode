@@ -17,6 +17,10 @@ describe('calibration value', () => {
 
     test('treb7uchet to equal number 77', () => {
         expect(calibrationValue("treb7uchet")).toBe(77)
-    })    
+    })
+
+    test('49872 to equal 42', () => {
+        expect(calibrationValue("49872")).toBe(42)
+    })
 
 })

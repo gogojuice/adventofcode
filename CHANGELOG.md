@@ -13,3 +13,9 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - Day 1 Part 1 
+
+## [1.1.0] - 2024-04-24
+
+### Added
+
+- Day 1 Part 2
