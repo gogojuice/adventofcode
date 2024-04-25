@@ -8,7 +8,6 @@ function calcualte(store: number[][]): number {
         newNumber = calculateNextValue(store[x], store[x - 1])
         store[x-1].push(newNumber)
     }
-    //console.log(1972648895)
     return newNumber
 }
 
