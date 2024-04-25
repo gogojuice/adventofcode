@@ -1,4 +1,5 @@
-import { describe, expect, test } from '@jest/globals';
+// Uncommented below out as the bun test didn't run with beforeAll with this line in
+// import { describe, expect, test } from '@jest/globals';
 import readInputFile from '../lib/readInputFile';
 
 describe('readInputFile', () => {

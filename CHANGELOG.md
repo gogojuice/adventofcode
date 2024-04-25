@@ -19,3 +19,11 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - Day 1 Part 2
+
+## [2.0.0] - 2024-04-25
+
+### Added
+
+- Star 1 and 2 For Day 9
+- bun added to enviroment 
+- updated README
